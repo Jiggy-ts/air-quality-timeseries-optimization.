@@ -22,3 +22,5 @@ It is always difficult for clients to get freelancers that can think beyond prog
 - Contextual Feature Engineering & Leakage Prevention: I identify any hidden relationships and dependencies between past metrics to add context to the model. More importantly, I perform rigorous ablation analyses to prevent the use of shortcuts, which allow the algorithm to cheat by circumventing the problem during training. Your business will have an efficient and practical tool for real-world application.
 - Temporal Validation & Algorithm Efficiency: Data shuffling breaks down the business cycle logic. No matter if you are trying to predict demand for inventory, retail sales, or website traffic, I create rigid temporal splits that take into account your business cycle. Also, through my rigorous grid search tournaments, I ensure that I find the most efficient algorithms possible at the lowest possible cost.
 
+### 🔢 Data source: 
+Dataset sourced from the https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set
