@@ -12,8 +12,8 @@ Most beginner analysts operate on neat and cleaned textbook datasets. This proje
 - Fair Comparison to Manual Baseline: Selected the final best_estimator_, in order to analyze its performance when compared to manual baseline model  on a completely independent test dataset X_test.
 
 ## 📊 The Results
-- Champion Model Breakthrough: The automation identified an optimized model tree (\(max\_depth=12\), \(n\_estimators=100\)) that captured 85.2% of the variance (\(R^2 = 0.852\)) in future pollution levels.
-- Algorithmic Efficiency: This pipeline surpassed the manual baseline method by an additional 1.26%, in addition to showing that 100 trees gave the best results—thus conserving processing time and space when compared to 300 trees.
+- Champion Model Breakthrough: The automation identified an optimized model tree (max_depth=12), (n_estimators=100) that captured 85.3% of the variance (R^2 = 0.853) in future pollution levels.
+- Algorithmic Efficiency: This pipeline surpassed the manual baseline method by an additional 1.65%, in addition to showing that 100 trees gave the best results—thus conserving processing time and space when compared to 300 trees.
 - Enterprise Graphics: Demonstrated model performance through dynamic horizontal feature importance diagrams and ranked leaderboards.
 
 ## 💼 Universal Business Value: Why My Framework Matters to You
